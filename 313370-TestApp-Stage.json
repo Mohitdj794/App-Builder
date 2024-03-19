@@ -1,0 +1,35 @@
+{
+  "project": {
+    "id": "4566206088345153438",
+    "name": "TestApp",
+    "title": "Project 62",
+    "org": {
+      "id": "313370",
+      "name": "AEP Partner Shared Sandbox 2",
+      "ims_org_id": "65B229AE5ED637A00A495E96@AdobeOrg"
+    },
+    "workspace": {
+      "id": "4566206088345166292",
+      "name": "Stage",
+      "title": "Stage",
+      "action_url": "https://313370-testapp-stage.adobeioruntime.net",
+      "app_url": "https://313370-testapp-stage.adobeio-static.net",
+      "details": {
+        "credentials": [],
+        "services": [],
+        "runtime": {
+          "namespaces": [
+            {
+              "name": "313370-testapp-stage",
+              "auth": "1c2a6b0e-9c01-48ae-8fe5-b9836b0a72b7:L7rKUM3I41K024lJNO6abWnldVj0ygRG7e3eTDR8l2adLMWMv64YhC1WOVxd8vL1"
+            }
+          ]
+        },
+        "events": {
+          "registrations": []
+        },
+        "mesh": {}
+      }
+    }
+  }
+}
